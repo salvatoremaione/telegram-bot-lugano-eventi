@@ -1,4 +1,4 @@
-# Telegram Bot – Lugano Eventi
+# Lugano Eventi Telegram Bot (Google Apps Script)
 
 A Telegram bot that provides up-to-date information about events in **Lugano, Switzerland**, sourced from [luganoeventi.ch](https://luganoeventi.ch/en/).
 
